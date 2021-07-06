@@ -1,0 +1,14 @@
+1) Отправить http запрос на сервер.
+https://api.quarantine.country/api/v1/regions
+Выполняется командой curl
+
+
+2)Написать скрипт
+#!/bin/bash
+cd folder1
+mkdir test1 test2 test2
+cd test2
+touch 1.txt 2.txt 3.txt 1.json 2.json
+mkdir dir1 dir2 dir3
+ls -la
+mv 1.txt 2.txt dir3
